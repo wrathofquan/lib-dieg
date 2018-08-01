@@ -1,0 +1,33 @@
+## Markdown for Data Initiatives Expertise Group 
+
+>Objectives
+* Understand what markup languages are and when to use them 
+* Learn basic markdown to help with using GitHub 
+
+## What is markup, markdown?
+
+* Lightweight markup language used to write web content 
+* Annotating a document. Comes from “marking up” manuscripts during the editing process 
+* Written in plain text 
+* Control the display of text (e.g. bold, creating headers, organizing lists) 
+
+## So what? 
+
+* Can be converted to HTML and other formats 
+* Used to create readme files 
+* Used in GitHub and DIEG 
+
+## What's next? 
+* Italicize with _underscores_ 
+* Bold with **two** asterisks
+* Can be used **for multiple words** or in **_combination_**
+* Headers (number of # for # header) 
+* [Links](www.google.com) 
+* Lists (indent for nested lists) 
+  * * unordered
+  * 1. ordered 
+* And much more! (e.g. images, block quotes) 
+
+## Resources
+
+[Learn markdown in 10 minutes:](https://www.markdowntutorial.com/)
