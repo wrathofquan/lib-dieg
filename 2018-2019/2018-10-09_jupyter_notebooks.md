@@ -6,10 +6,10 @@
 
 ## What are Jupyter Notebooks? 
 * Part of Project Jupyter, a spinoff of iPython (which was developed by Berkeley's own Fernando Pérez)
-* Compatible with *Ju*lia, *Py*thon, *R*, and now dozens more programming languages
+* Compatible with **Ju**lia, **Pyt**hon, **R**, and now dozens more programming languages
 * Allows ["literate programming"](https://unidata.github.io/online-python-training/introduction.html)
 * Open source alternative to Mathematica Notebook
-  *Nobel-prize winning economist Paul Romer [prefers Jupyter Notebook](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/) for sharing his research data
+  * Nobel-prize winning economist Paul Romer [prefers Jupyter Notebook](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/) for sharing his research data
 * Notebooks are usually hosted on GitHub
 
 ## How are Jupyter notebooks used?
