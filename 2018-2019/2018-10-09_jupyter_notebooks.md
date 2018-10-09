@@ -21,6 +21,6 @@
 
 ## References and Further Reading
 * [Project Jupyter on Wikipedia](https://en.wikipedia.org/wiki/Project_Jupyter)
+* [Project Jupyter at BIDS](https://bids.berkeley.edu/research/project-jupyter)
 * [James Somer, "The Scientific Paper is Obsolete," *The Atlantic,* April 2018](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
 * [Helen Shen, "Interactive notebooks: Sharing the code," *Nature,* November 5, 2014](https://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261)
-* [Project Jupyter at BIDS](https://bids.berkeley.edu/research/project-jupyter)
