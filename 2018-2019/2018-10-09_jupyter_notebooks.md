@@ -15,7 +15,7 @@
 ## How are Jupyter notebooks used?
 * Notebooks are usually hosted on GitHub
 * Once a user downloads the Notebook, they can execute and modify the code within the Jupyter environment.
-* It's becoming a platform for publishing scientific papers, such as the [LIGO Gravitational Waves observation)](https://hub.mybinder.org/user/losc-tutorial-l-_event_tutorial-mafwtjoc/tree)
+* It's becoming a platform for publishing scientific papers, such as the [LIGO Gravitational Waves observation](https://www.gw-openscience.org/tutorials/)
 * The [Python API for SAS](https://sassoftware.github.io/saspy/overview.html) uses Project Jupyter (which is why Hilary was interested, Haas is big on SAS)
 * Jupyter Notebooks are a front-end interface for cloud platforms like Amazon SageMaker Notebooks, Google Colaboratory, and Microsoft Azure Notebook
 
