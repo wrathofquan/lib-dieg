@@ -26,7 +26,7 @@ Look at the repository's funding sources, partner institutions, and policies. Da
  - **Benefits to other researchers:** can reproduce or verify research; can ask new questions and advance research; helps avoid duplication of experiments
 - **Benefits to society:** helps make publicly-funded research more available to public; greater transparency; avoiding duplication of experiments saves money
 ### Data sharing considerations
-- appropriate metadata standards - discipline dependent; what is our role as librarians? 
+- appropriate metadata standards - discipline dependent; *what is our role as librarians?* 
 - documentation - via a readme.txt file - includes context; methodology; file structure / organization; quality assurance; conditions of access and use; variable names and descriptions; definitions; missing values; etc 
 - file formats - non-proprietary
 
