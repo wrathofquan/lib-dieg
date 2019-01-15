@@ -1,0 +1,25 @@
+What is Geospatial data?
+  Data that has a geospatial component to it (addresses, zip codes, latitude & longitude coordinates, airline routes, etc.)
+  The application of geospatial analysis can include climate change modeling, population growth forecasting, human migration patterns or tends, real estate sales analysis, 
+  Geospatial data can be accessed, manipulated and analyzed using geospatial software
+Types of gespatial data
+  Vector
+  Raster
+  Tabular
+ GIS tools/software
+  ARCGIS
+  Carto
+  Google maps
+  Open Street Map
+ Obtaining data
+  Geodata@UCB: https://geodata.lib.berkeley.edu/ 
+  Policy Map: https://ucberkeley.policymap.com/maps
+  SimplyAnalytics: http://app.simplyanalytics.com/login.html 
+  Social Explorer: https://www.socialexplorer.com/ 
+  Natural Earth Data: http://www.naturalearthdata.com/ 
+  Open Street Map: https://www.openstreetmap.org/#map=5/38.007/-95.844
+  ArcGIS Online: https://cal.maps.arcgis.com/home/signin.html
+ Further training
+  D-Lab
+  Lynda.com
+  ERSI
